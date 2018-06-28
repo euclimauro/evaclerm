@@ -10,7 +10,6 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-.env
 
 
 # Created by https://www.gitignore.io/api/macos,windows,netbeans,phpstorm,visualstudiocode
