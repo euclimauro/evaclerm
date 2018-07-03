@@ -12,8 +12,16 @@ npm-debug.log
 yarn-error.log
 .env
 
+# Created by https://www.gitignore.io/api/macos,windows,laravel,netbeans,phpstorm,visualstudiocode
 
-# Created by https://www.gitignore.io/api/macos,windows,netbeans,phpstorm,visualstudiocode
+### Laravel ###
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
 
 ### macOS ###
 # General
@@ -149,5 +157,4 @@ $RECYCLE.BIN/
 *.lnk
 
 
-# End of https://www.gitignore.io/api/macos,windows,netbeans,phpstorm,visualstudiocode
-English
+# End of https://www.gitignore.io/api/macos,windows,laravel,netbeans,phpstorm,visualstudiocode
