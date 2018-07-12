@@ -11,7 +11,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Evaclerm</title>
+        <title>Electronic Vaults (EV)</title>
 
         <!-- Font Awesome -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -110,7 +110,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
             <div class="container">
                 <a class="navbar-brand" href="#">
-                    <strong>Evaclerm</strong>
+                    <strong>Electronic Vaults - EV</strong>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7"
                         aria-controls="navbarSupportedContent-7"
@@ -876,7 +876,7 @@
                 <!--First column-->
                 <div class="col-md-3 col-lg-4 col-xl-3 mb-4">
                     <h6 class="text-uppercase font-weight-bold">
-                        <strong>Evaclerm</strong>
+                        <strong>Electronic Vaults - EV</strong>
                     </h6>
                     <hr class="blue mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
                     <p>Here you can use rows and columns here to organize your footer content. Lorem ipsum dolor sit amet,
